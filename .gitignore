@@ -15,6 +15,7 @@ Icon?
 
 # Node.js
 node_modules/
+.env
 
 # Logs
 *.log
